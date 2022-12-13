@@ -7,6 +7,7 @@
 # Pharmacy Search 2
 
 ### The task of the second year of Yandex Lyceum
+###### You need to create a console application that will find the nearest pharmacy at the entered address, build a direct route to the point and display brief information about the pharmacy (in Russian)
 
 #### To work with the program, you need to get 2 API keys:
 * [Geocoder](https://yandex.com/dev/maps/geocoder/)
@@ -28,6 +29,7 @@ python main.py Moscow Moscow Kremlin
 # Поиск аптеки 2
 
 ### Задание второго курса Яндекс Лицея
+###### Необходимо создать консольное приложение, которое по введённому адресу найдет ближайшую аптеку, построит прямой маршрут до точки и выведет на экран краткую информацию об аптеке
 
 #### Для работы с программой вам необходимо получить 2 API ключа: 
 * [Геокодер](https://yandex.ru/dev/maps/geocoder/)
